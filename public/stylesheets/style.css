@@ -4,6 +4,9 @@ body {
     margin: 30px auto;
     width: 90%;
 }
+footer {
+    margin-top: 60px;
+}
 a, a:visited, a:link, a:active {
     color: #c00;
     text-decoration: none;
