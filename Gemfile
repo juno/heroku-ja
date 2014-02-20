@@ -4,7 +4,7 @@ ruby '2.1.0'
 
 gem 'rails', '4.0.3'
 gem 'pg', '0.17.1'
-gem 'jquery-rails', '3.0.4'
+gem 'jquery-rails', '3.1.0'
 gem 'newrelic_rpm'
 gem 'unicorn', '4.8.2'
 
