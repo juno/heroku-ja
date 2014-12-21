@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.1.5'
 
-gem 'rails', '4.1.8'
+gem 'rails', '4.2.0'
 gem 'pg', '0.17.1'
 gem 'jquery-rails', '3.1.2'
 gem 'newrelic_rpm'
