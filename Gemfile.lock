@@ -55,7 +55,7 @@ GEM
     mime-types (2.99)
     mini_portile2 (2.0.0)
     minitest (5.8.3)
-    newrelic_rpm (3.14.0.305)
+    newrelic_rpm (3.14.1.311)
     nokogiri (1.6.7)
       mini_portile2 (~> 2.0.0.rc2)
     puma (2.15.3)
