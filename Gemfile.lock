@@ -56,7 +56,7 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.3)
     newrelic_rpm (3.14.1.311)
-    nokogiri (1.6.7.1)
+    nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
     puma (2.15.3)
     rack (1.6.4)
@@ -110,6 +110,7 @@ PLATFORMS
 DEPENDENCIES
   jquery-rails (~> 4.0.5)
   newrelic_rpm (~> 3.14.0)
+  nokogiri (>= 1.6.7.2)
   puma (~> 2.15.0)
   rails (~> 4.2.4)
   rails_12factor (~> 0.0.3)
