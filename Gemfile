@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 ruby '2.3.0'
 
 gem 'rails', '~> 4.2.5.1'
-gem 'jquery-rails', '~> 4.0.5'
-gem 'newrelic_rpm', '~> 3.14.0'
+gem 'jquery-rails', '~> 4.1.0'
+gem 'newrelic_rpm', '~> 3.14.2'
 gem 'puma', '~> 2.15.0'
 
 group :production do
