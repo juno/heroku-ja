@@ -120,5 +120,8 @@ DEPENDENCIES
   rails-html-sanitizer (~> 1.0.3)
   rails_12factor (~> 0.0.3)
 
+RUBY VERSION
+   ruby 2.3.1p112
+
 BUNDLED WITH
-   1.10.6
+   1.12.5
