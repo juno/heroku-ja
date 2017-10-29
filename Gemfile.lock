@@ -60,7 +60,7 @@ GEM
     mime-types-data (3.2016.0521)
     mini_portile2 (2.3.0)
     minitest (5.10.3)
-    newrelic_rpm (3.14.3.313)
+    newrelic_rpm (4.5.0.337)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
     puma (2.15.3)
@@ -114,7 +114,7 @@ PLATFORMS
 
 DEPENDENCIES
   jquery-rails (~> 4.1.0)
-  newrelic_rpm (~> 3.14.2)
+  newrelic_rpm (~> 4.5.0)
   nokogiri (>= 1.6.7.2)
   puma (~> 2.15.0)
   rails (~> 4.2.7.1)

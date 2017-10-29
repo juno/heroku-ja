@@ -4,7 +4,7 @@ ruby '2.3.1'
 
 gem 'rails', '~> 4.2.7.1'
 gem 'jquery-rails', '~> 4.1.0'
-gem 'newrelic_rpm', '~> 3.14.2'
+gem 'newrelic_rpm', '~> 4.5.0'
 gem 'puma', '~> 2.15.0'
 
 group :production do
