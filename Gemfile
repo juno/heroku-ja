@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '2.3.1'
 
 gem 'rails', '~> 4.2.7.1'
-gem 'jquery-rails', '~> 4.1.0'
+gem 'jquery-rails', '~> 4.3.1'
 gem 'newrelic_rpm', '~> 4.8.0'
 gem 'puma', '~> 3.11.2'
 
