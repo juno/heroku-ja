@@ -129,7 +129,7 @@ DEPENDENCIES
   middleman
 
 RUBY VERSION
-   ruby 3.3.0p0
+   ruby 4.0.9p0
 
 BUNDLED WITH
    2.5.7

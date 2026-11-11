@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '3.3.0'
+ruby file: '.tool-versions'
 
 gem 'middleman'
